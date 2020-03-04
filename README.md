@@ -17,7 +17,7 @@ npm install yo generator-tsx-docgen
 ## Commands
 
 Default, generate jest test files:
-`yo tsx-jest`
+`yo tsx-docgen`
 
 Provide the path to the folder that contains `.tsx` files. It can be a relative path, such as `./` or `./src`.
 
@@ -25,11 +25,11 @@ Give the path to your folder or ```cd``` to it and put ```./``` as path
 
 
 Other options:
-`yo tsx-jest --help`
+`yo tsx-docgen --help`
 
 ```
 Usage:
-  yo tsx-docgen:app [options]
+  yo tsx-docgen [options]
 
 Options:
   -h,   --help           # Print the generator's options and usage
